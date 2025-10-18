@@ -1,0 +1,24 @@
+
+======================================================================
+MCA Daily Change Report - Day 2 (2025-10-11)
+======================================================================
+
+SUMMARY STATISTICS
+------------------
+Total Changes Detected: 96
+
+New Incorporations: 12
+Deregistrations: 6
+Status Changes: 13
+Capital Modifications: 65
+
+TOP STATES BY ACTIVITY
+-----------------------
+Delhi: 27 changes
+Gujarat: 27 changes
+Tamil Nadu: 23 changes
+Karnataka: 19 changes
+
+======================================================================
+Report Generated: 2025-10-18 19:07:19
+======================================================================
